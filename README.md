@@ -1,1 +1,1 @@
-# Structuring and Visualizing My River Log Data with Google Sheets and Tableau
+# Structuring and Visualizing River Log Data in Google Sheets and Tableau
