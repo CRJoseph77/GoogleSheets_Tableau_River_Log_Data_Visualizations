@@ -1,7 +1,7 @@
 # River Miles Log Cleaning and Visualization Using Google Sheets and Tableau
 
 ## Project Overview
-This project cleans, explores, and visualizes data from my personal River Miles Log. The log tracks information about every raft trip I participated in as a Whitewater Raft Guide, including date, miles traveled, type of trip, put-in and take-out location, water level, boat type, and activity type. Data was cleaned and aggregated in Google Sheets. Third-party water level data was downloaded from the US Geological Survey website and joined to the spreadsheet. Pivot tables were created to explore and visualize data using Google Sheets. Once data was thoroughly cleaned and explored, visualizations and dashboards were created using Tableau to illustrate patterns and trends within the data and to allow other users to explore and filter the data. 
+This project cleans, explores, and [visualizes](https://public.tableau.com/views/ColeJoseph_River_Log_Visualizations/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) data from my personal River Miles Log. The log tracks information about every raft trip I participated in as a Whitewater Raft Guide, including date, miles traveled, type of trip, put-in and take-out location, water level, boat type, and activity type. Data was cleaned and aggregated in Google Sheets. Third-party water level data was downloaded from the US Geological Survey website and joined to the spreadsheet. Pivot tables were created to explore and visualize data using Google Sheets. Once data was thoroughly cleaned and explored, visualizations and dashboards were created using Tableau to illustrate patterns and trends within the data and to allow other users to explore and filter the data. 
 
 ## Installation and Setup
 
@@ -23,9 +23,10 @@ Preprocessing: The USGS water level data was filtered and aggregated using Pytho
 1. [Original data (Google Sheets)](https://docs.google.com/spreadsheets/d/1xvwZAN8gcWX6ytiDeq9__npj_mQatEYfLMnWygOJQ9w/edit?usp=sharing)
 2. [Cleaned data (Google Sheets)](https://docs.google.com/spreadsheets/d/1tqPGxfS0T6j-5g5wazgPtsR3BmH9RXkueuPmdCjh3kQ/edit?usp=sharing)
 3. [Data visualizations (Tableau dashboards)](https://public.tableau.com/views/ColeJoseph_River_Log_Visualizations/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
-4. [Clean USGS CFS data](USGS_Arkansas_Daily_CFS_Clean.csv)
-5. [Raw USGS CFS data](USGS_CFS.tsv)
-6. [Cleaning and aggregating raw USGS data (Python)](USGS_CFS_Data_Cleaning.ipynb)
+4. [Data dictionary](River_Miles_Log_Data_Dictionary.pdf)
+5. [Clean USGS CFS data](USGS_Arkansas_Daily_CFS_Clean.csv)
+6. [Raw USGS CFS data](USGS_CFS.tsv)
+7. [Cleaning and aggregating raw USGS data (Python)](USGS_CFS_Data_Cleaning.ipynb)
 
 ## Data Dictionary
 Column and description
