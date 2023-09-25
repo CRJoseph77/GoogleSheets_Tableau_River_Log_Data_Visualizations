@@ -1,3 +1,4 @@
+![](Tableau_Google_Sheets_coverphoto.PNG)
 # River Miles Log Cleaning and Visualization Using Google Sheets and Tableau
 
 ## Project Overview
