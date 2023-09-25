@@ -19,6 +19,11 @@ Data acquisition: My original River Miles Log data can be accessed here. The USG
 
 Preprocessing: The USGS water level data was filtered and aggregated using Python prior to uploading it to Google Sheets.
 
+## Project Structure
+1. [Original data (Google Sheets)](https://docs.google.com/spreadsheets/d/1xvwZAN8gcWX6ytiDeq9__npj_mQatEYfLMnWygOJQ9w/edit?usp=sharing)
+2. [Cleaned data (Google Sheets)](https://docs.google.com/spreadsheets/d/1tqPGxfS0T6j-5g5wazgPtsR3BmH9RXkueuPmdCjh3kQ/edit?usp=sharing)
+3. [Tableau dashboards](https://public.tableau.com/views/ColeJoseph_River_Log_Visualizations/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Data Dictionary
 Column and description
 1. Date - the date of the trip
@@ -38,9 +43,3 @@ Column and description
 
 ## References
 USGS Water level data: https://waterdata.usgs.gov/monitoring-location/07094500/#parameterCode=00065&period=P7D&showMedian=true
-
-(https://docs.google.com/spreadsheets/d/1xvwZAN8gcWX6ytiDeq9__npj_mQatEYfLMnWygOJQ9w/edit?usp=sharing)
-
-https://docs.google.com/spreadsheets/d/1tqPGxfS0T6j-5g5wazgPtsR3BmH9RXkueuPmdCjh3kQ/edit?usp=sharing
-
-https://public.tableau.com/views/ColeJoseph_River_Log_Visualizations/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
