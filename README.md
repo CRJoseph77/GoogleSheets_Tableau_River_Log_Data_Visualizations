@@ -22,12 +22,12 @@ Preprocessing: The USGS water level data was filtered and aggregated using Pytho
 ## Data Dictionary
 Column and description
 1. Date - the date of the trip
-2. Trip_type - the type of trip specifies whether the trip was paid:  
+2. Trip_type - the type of trip specifies whether the trip was paid 
 5. Miles - how many miles were covered on the river
 6. River - the name of the river where the trip occurred
 7. Put-in - the name of the put-in location where the trip started
 8. Take-out - the name of the take-out location where the trip ended
-9. Activity_type - specifies what type of activity I performed on the trip:
+9. Activity_type - specifies what type of activity I performed on the trip
 11. Cubic Feet per Second (CFS) - the water level during that trip
 12. Boat - the type of craft used for that trip 
 13. PI_latitude - the latitude of the put-in location
