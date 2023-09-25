@@ -25,7 +25,7 @@ Preprocessing: The USGS water level data was filtered and aggregated using Pytho
 3. [Data visualizations (Tableau dashboards)](https://public.tableau.com/views/ColeJoseph_River_Log_Visualizations/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 4. [Clean USGS CFS data](USGS_Arkansas_Daily_CFS_Clean.csv)
 5. [Raw USGS CFS data](USGS_CFS.tsv)
-6. [Cleaning and aggregating raw USGS data (Python)]()
+6. [Cleaning and aggregating raw USGS data (Python)](USGS_CFS_Data_Cleaning.ipynb)
 
 ## Data Dictionary
 Column and description
