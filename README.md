@@ -23,6 +23,9 @@ Preprocessing: The USGS water level data was filtered and aggregated using Pytho
 1. [Original data (Google Sheets)](https://docs.google.com/spreadsheets/d/1xvwZAN8gcWX6ytiDeq9__npj_mQatEYfLMnWygOJQ9w/edit?usp=sharing)
 2. [Cleaned data (Google Sheets)](https://docs.google.com/spreadsheets/d/1tqPGxfS0T6j-5g5wazgPtsR3BmH9RXkueuPmdCjh3kQ/edit?usp=sharing)
 3. [Data visualizations (Tableau dashboards)](https://public.tableau.com/views/ColeJoseph_River_Log_Visualizations/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+4. [Clean USGS CFS data]()
+5. [Raw USGS CFS data] ()
+6. [Cleaning and aggregating raw USGS data (Python)]()
 
 ## Data Dictionary
 Column and description
