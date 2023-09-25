@@ -22,32 +22,14 @@ Preprocessing: The USGS water level data was filtered and aggregated using Pytho
 ## Data Dictionary
 Column and description
 1. Date - the date of the trip
-2. Trip_type - the type of trip specifies whether the trip was paid:
-
-   a. Commercial - paid trips
-   b. Other - unpaid trips (for fun)
-   
+2. Trip_type - the type of trip specifies whether the trip was paid:  
 5. Miles - how many miles were covered on the river
 6. River - the name of the river where the trip occurred
 7. Put-in - the name of the put-in location where the trip started
 8. Take-out - the name of the take-out location where the trip ended
-9. Activity_type - specifies what type of activity I performed on the trip: 
-
-   a. Guided - guiding the raft
-   b. Paddled - paddling in the raft while someone else guides
-   c. Kayaked - hardshell kayak
-   d. Duckied - inflatable kayak
-   e. R2 - two-person raft
-
+9. Activity_type - specifies what type of activity I performed on the trip:
 11. Cubic Feet per Second (CFS) - the water level during that trip
-12. Boat - the type of craft used for that trip
- 
-  a. P - paddle raft
-  b. O - oar raft
-  c. O/P - oar raft with paddle assist
-  d. K - kayak
-  e. D - duckie (inflatable kayak)
-  
+12. Boat - the type of craft used for that trip 
 13. PI_latitude - the latitude of the put-in location
 14. PI_longitude - the longitude of the put-in location
 15. TO_latitude - the latitude of the take-out location
