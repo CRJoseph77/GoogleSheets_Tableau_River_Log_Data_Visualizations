@@ -14,9 +14,9 @@ Python version: Python 3.
 
 ## Data
 
-Source data: The data used for this project is my personal River Miles Log sheet. It contains relevant data for every rafting trip I participated in from 2017 to 2022. This project also uses water level data for the Arkansas River, downloaded from the US Geological Survey. 
+Source data: The data used for this project is my personal River Miles Log sheet. It contains relevant data for every rafting trip I participated in from 2017 to 2022. This project also uses water level data for the Arkansas River, downloaded from the US Geological Survey website. 
 
-Data acquisition: My original River Miles Log data can be accessed here. The USGS water level data can be downloaded from their website. (https://waterdata.usgs.gov/monitoring-location/07094500/#parameterCode=00065&period=P7D&showMedian=true).
+Data acquisition: My original River Miles Log data can be accessed here[https://docs.google.com/spreadsheets/d/1tqPGxfS0T6j-5g5wazgPtsR3BmH9RXkueuPmdCjh3kQ/edit#gid=0]. The USGS water level data can be downloaded from their website. (https://waterdata.usgs.gov/monitoring-location/07094500/#parameterCode=00065&period=P7D&showMedian=true).
 
 Preprocessing: The USGS water level data was filtered and aggregated using Python prior to uploading it to Google Sheets.
 
